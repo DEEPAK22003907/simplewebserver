@@ -46,14 +46,9 @@ httpd.serve_forever()
 ## OUTPUT:
 
 ### server side output:
-
-![Serverside](myproj/simplewebserver/images/serverside.png)
-
+![Serverside](./images/serverside.png)
 ### client side output:
-
-![Clientside](myproj/simplewebserver/images/clientside.png)
-
-
+![Clientside](./images/clientside.png)
 ## RESULT:
 Thus developed a simple webserver to  display top 5 web application frameworks.
 
